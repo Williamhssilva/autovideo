@@ -60,11 +60,7 @@ AutoVideo é uma aplicação web que automatiza o processo de adição de legend
    npm start
    ```
 
-2. Em outro terminal, inicie o frontend:
-   ```
-   cd frontend
-   npm start
-   ```
+2. Execute o arquivo upload_test.html com algum srevidor frontend.
 
 3. Acesse a aplicação em seu navegador: `http://localhost:3000`
 
